@@ -262,10 +262,10 @@ header {
     text-align: center;
     color: #2e2f42;
     text-transform: capitalize;
+    margin-bottom: 72px;
 }
 
 .team-list {
-    margin-top: 72px;
     display: flex;
     flex-direction: row;
     gap: 24px;
