@@ -106,7 +106,6 @@ header {
 }
 
 .navigation {
-    gap: 76px;
 }
 
 .menu {
@@ -290,7 +289,6 @@ header {
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
-    margin-top: 32px;
     margin-bottom: 8px;
 }
 
@@ -301,7 +299,6 @@ header {
     letter-spacing: 0.02em;
     text-align: center;
     color: inherit;
-    margin-bottom: 32px;
 }
 
 /* #endregion Section 2 */
